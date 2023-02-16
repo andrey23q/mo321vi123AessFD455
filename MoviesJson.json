@@ -1,0 +1,40 @@
+{
+   "movies":[
+      {
+         "tmdb_id":"550988",
+         "name":"Free Guy",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://google.com",
+               "contentHost":"DoodStream",
+               "contentSize":"800 MB"
+            },
+            {
+               "quality":"BluRay",
+               "url":"https://facebook.com",
+               "contentHost":"Private",
+               "contentSize":"1000 MB"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"438631",
+         "name":"Dune",
+         "links":[
+            {
+               "quality":"SD",
+               "url":"https://reddit.com",
+               "contentHost":"DoodStream",
+               "contentSize":"800 MB"
+            },
+            {
+               "quality":"4K",
+               "url":"https://instagram.com",
+               "contentHost":"Private",
+               "contentSize":"1000 MB"
+            }
+         ]
+      }
+   ]
+}
