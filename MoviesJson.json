@@ -19,24 +19,6 @@
          ]
       },
       {
-         "tmdb_id":"315162",
-         "name":"El Gato con Botas: El último deseo",
-         "links":[
-            {
-               "quality":"HD",
-               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#639561cfb0d850baba00db3a",
-               "contentHost":"PRUEBA VIP",
-               "contentSize":"800 MB"
-            },
-            {
-               "quality":"BluRay",
-               "url":"https://facebook.com",
-               "contentHost":"Private",
-               "contentSize":"1000 MB"
-            }
-         ]
-      },
-      {
          "tmdb_id":"438631",
          "name":"Dune",
          "links":[
