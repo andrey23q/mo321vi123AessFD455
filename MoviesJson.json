@@ -19,6 +19,24 @@
          ]
       },
       {
+         "tmdb_id":"76600",
+         "name":"Avatar: El camino del agua",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#639b9118b0d850baba86e6f1",
+               "contentHost":"DoodStream",
+               "contentSize":"800 MB"
+            },
+            {
+               "quality":"BluRay",
+               "url":"https://facebook.com",
+               "contentHost":"Private",
+               "contentSize":"1000 MB"
+            }
+         ]
+      },
+      {
          "tmdb_id":"438631",
          "name":"Dune",
          "links":[
