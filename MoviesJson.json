@@ -24,7 +24,7 @@
          "links":[
             {
                "quality":"HD",
-               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fae70916dc51d7b5d88a662",
+               "url":"https://api.mycdn.moe/video/tt0120812/",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP"
             }
@@ -36,7 +36,7 @@
          "links":[
             {
                "quality":"HD",
-               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fae6c336dc51d7b5d88a5a6",
+               "url":"https://api.mycdn.moe/video/tt0266915/",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP"
             }
