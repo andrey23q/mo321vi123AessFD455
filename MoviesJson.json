@@ -27,6 +27,12 @@
                "url":"https://api.mycdn.moe/video/tt0120812/",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjU5ODc=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
             }
          ]
       },
@@ -39,6 +45,12 @@
                "url":"https://api.mycdn.moe/video/tt0266915/",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjYwOTk=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
             }
          ]
       },
