@@ -19,6 +19,42 @@
          ]
       },
       {
+         "tmdb_id":"2109",
+         "name":"Una Pareja Explosiva",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fae70916dc51d7b5d88a662",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"5175",
+         "name":"Una Pareja Explosiva 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fae6c336dc51d7b5d88a5a6",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"5174",
+         "name":"Una Pareja Explosiva 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MjgxMjQ=&option=latin",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP"
+            }
+         ]
+      },
+      {
          "tmdb_id":"438631",
          "name":"Dune",
          "links":[
