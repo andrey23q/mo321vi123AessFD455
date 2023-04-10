@@ -57,6 +57,12 @@
                "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18QRc4yJ7bDXN2%2FssiOpSxG2DLhqKffFtluVJYCUH5%2F8l5Sb%2BP9WQQy",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZUwqLnADANVmF+ralkR0+58exqhzoqKOyNiwWYF9LEjsFGy4RSeCBSY/2EvNmum4uvWeBgqtWaurrGKtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
             }
          ]
       },
