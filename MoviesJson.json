@@ -48,6 +48,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"736790",
+         "name":"Chupa",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FntUcHGnnwHW5HGiJoLK8HMfhxDj34L7BivCZEVcKNhIF%2FljDDnnrc",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
        {
          "tmdb_id":"594767",
          "name":"¡Shazam! Furia de los dioses",
