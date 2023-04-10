@@ -37,6 +37,30 @@
          ]
       },
       {
+         "tmdb_id":"502356",
+         "name":"La película de Super Mario Bros.",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18nyw5mjf%2FaNqJ3dWSsIpp8rMF%2BI1u%2FC6nDup6ag5i62kqjgq5XYqU4",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
+       {
+         "tmdb_id":"594767",
+         "name":"¡Shazam! Furia de los dioses",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18QRc4yJ7bDXN2%2FssiOpSxG2DLhqKffFtluVJYCUH5%2F8l5Sb%2BP9WQQy",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"5175",
          "name":"Una Pareja Explosiva 2",
          "links":[
