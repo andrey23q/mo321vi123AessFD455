@@ -79,6 +79,24 @@
          ]
       },
       {
+         "tmdb_id":"1067282",
+         "name":"Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://www.yourupload.com/embed/h0TNEuO07eI0",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://terabox.com/sharing/embed?surl=EoHiYgejb6nBu0Fy3mDDaQ&resolution=1080&autoplay=true&mute=false&uk=4399467314851&fid=545733743772189",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"5175",
          "name":"Una Pareja Explosiva 2",
          "links":[
