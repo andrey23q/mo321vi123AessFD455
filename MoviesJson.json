@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"948713",
+         "name":"The Last Kingdom: Siete reyes deben morir",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19hh8uZZ3DO1rv4UDaK9gBVdqttZO4i8k%2BCiy2Uqr9BWRnvmBdGrpZr",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://streamsb.net/e/72s48pdewdi9.html",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"Server 2 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"502356",
          "name":"La película de Super Mario Bros.",
          "links":[
