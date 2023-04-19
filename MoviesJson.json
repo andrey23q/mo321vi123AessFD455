@@ -78,6 +78,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"640146",
+         "name":"Ant-Man y la Avispa: Quantumanía",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FJ23%2Bzu43WnT6nvBOqUnSXS5a9KG5a%2Fe47TRGk7OPSG5InBmWnxdKb",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            }
+         ]
+      },
        {
          "tmdb_id":"594767",
          "name":"¡Shazam! Furia de los dioses",
