@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"868759",
+         "name":"Ghosting",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://watchx.top/v/Nu1I8EqexJJQgDD4ghF5FG347BdFgJKiYF567fdHfDGH644gF46bV34B5B5V34/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FCeEAda3VezbNpes2%2FdfMMVSFtwFJ0zBKLNurLdFih9%2B76Xkv3UoQX",
+               "contentHost":"CASTELLANO",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
          "tmdb_id":"948713",
          "name":"The Last Kingdom: Siete reyes deben morir",
          "links":[
