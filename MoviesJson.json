@@ -49,6 +49,30 @@
          ]
       },
       {
+         "tmdb_id":"916224",
+         "name":"Suzume",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FPKLSeh1EZEKxC5K6DIp3r5QRrSWsgOUpYHDz8FV9EfsmyfxdI7fu%2B",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"934433",
+         "name":"Scream VI",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19eYbqKlPHfCU6IrcQMUW1kHgrUf%2BH%2FdxMjVcUN5DKwm4%2Fy9l0SVbc%2B",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"868759",
          "name":"Ghosting",
          "links":[
