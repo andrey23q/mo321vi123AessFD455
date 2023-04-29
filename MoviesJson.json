@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"420808",
+         "name":"Peter Pan & Wendy",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19f7U2ouKnr95oMv6XtWqyu4FhVfbW0b%2BjrS%2F6QZBScGgYu%2BbfvZcyj&image=https://static.esplay.one/movie/gallery/original/ov8dy3tyXNwbwxxObtoRinLki3v.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZU0jKnULANVlF+/dwRAn/Z8fw/pxoqLUkIywWNR5I0jiGGq8FirQUic610vNmv27t/qeBgqtWq2ipGKtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
          "tmdb_id":"713704",
          "name":"Posesión infernal: El despertar",
          "links":[
