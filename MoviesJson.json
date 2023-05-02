@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"493529",
+         "name":"Dungeons & Dragons: Honor entre ladrones",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FIf5fG%2FjZn%2FXRF8d7mllFMl%2FRtE78yhzxipZAg%2FGlG%2F1yvpeshPLz0&image=https://static.esplay.one/movie/gallery/original/qmEKe0AEsns2WXinbkGxlCxlTHq.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://plusvip.net/moe?data=xDlka1eIZUwlLXUBANUzRurQmEJ0/J8ZwPwvoqKBnIqwA417LEjiGT/qF3CCVHc50UvNmumqteyeBgquUKaoqmCtuYPd9mNybBoCD81QJhsZhg==",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
          "tmdb_id":"420808",
          "name":"Peter Pan & Wendy",
          "links":[
