@@ -85,6 +85,18 @@
          ]
       },
       {
+         "tmdb_id":"447365",
+         "name":"Guardianes de la Galaxia: Volumen 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19VfPSVLH%2FgmLzJKr%2FOV%2FFMpR9HJ70s8QvAaYg5IUXT%2FGVI3Hqd5HyM&image=https://static.esplay.one/movie/gallery/original/rR1vGEC1csvWfQ9eLKsSWukfiLp.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 CAM"
+            }
+         ]
+      },
+      {
          "tmdb_id":"916224",
          "name":"Suzume",
          "links":[
