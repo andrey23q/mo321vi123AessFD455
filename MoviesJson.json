@@ -85,6 +85,24 @@
          ]
       },
       {
+         "tmdb_id":"649609",
+         "name":"Renfield",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F2fsw1QcY%2F9A9kNHOstw2ctMbU6jW7J8lKArTPuj7HJB5hsTmD078m&image=https://static.esplay.one/movie/gallery/original/sxePETTFyiFZaTqQZZrDgcNaTos.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/PAe0ynagv6AMHfh5HJ46hG6ujHgRhKdfWIj64ShLuF53edHklO86fgGER/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"447365",
          "name":"Guardianes de la Galaxia: Volumen 3",
          "links":[
