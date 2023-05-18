@@ -85,6 +85,18 @@
          ]
       },
       {
+         "tmdb_id":"385687",
+         "name":"Rápidos y furiosos X",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX183jKHUFhjU%2FykCXYeYdpZubi5DcwRJV2zHQGxFgqMtkHiKzvJkgPcE&image=https://static.esplay.one/movie/gallery/original/cSWkX0fTjrBCU2sbEmyRFd1SxPA.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 CAM"
+            }
+         ]
+      },
+      {
          "tmdb_id":"620705",
          "name":"Cráter: Un viaje inolvidable",
          "links":[
