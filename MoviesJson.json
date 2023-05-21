@@ -85,6 +85,18 @@
          ]
       },
       {
+         "tmdb_id":"840326",
+         "name":"Sisu",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19o8tPQxTyL8QU773OQ7Brk8W8zecBLyueqJxXLQFOtgyaCvG1VoR30&image=https://static.esplay.one/movie/gallery/original/94TIUEhuwv8PhdIADEvSuwPljS5.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 CAM"
+            }
+         ]
+      },
+      {
          "tmdb_id":"385687",
          "name":"Rápidos y furiosos X",
          "links":[
