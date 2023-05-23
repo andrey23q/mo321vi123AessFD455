@@ -85,6 +85,18 @@
          ]
       },
       {
+         "tmdb_id":"603692",
+         "name":"John Wick 4 ",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BjB5XE8gG%2F5hFiouKHyNCUi3goFDehq3XmAy8uSh5CnJhOa7fPViC0&image=https://static.esplay.one/movie/gallery/original/h8gHn0OzBoaefsYseUByqsmEDMY.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"840326",
          "name":"Sisu",
          "links":[
