@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"447277",
+         "name":"La Sirenita",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FwO0jrKIvtq4xnupfFmMFX9AqLTxmDdrRB7dsj3hSEpDNN%2BnW18N2Q&image=https://static.esplay.one/movie/gallery/original/hJoMSAltRx5xvlAXvKyDdugjucJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://pelisplay.cc/play?id=MTY4Nzc0&option=castell",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
          "tmdb_id":"493529",
          "name":"Dungeons & Dragons: Honor entre ladrones",
          "links":[
