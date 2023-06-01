@@ -103,6 +103,30 @@
          ]
       },
       {
+         "tmdb_id":"569094",
+         "name":"Spider-Man: Across the Spider-Verse",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FGqseGDwkkVnYUEtPT7U7vOZcQl433XUDwg%2FcmGuFd1EMoei0nxR0i&image=https://static.esplay.one/movie/gallery/original/e59QkHTueqRelzq0thn5deCEKIG.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"890771",
+         "name":"The Black Demon",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2B5PyqEd9rwq%2F3Zu3MZ6jS0NTWQiSrp4w1oHTB7rmCPxFe%2BmPuOJS1F&image=https://static.esplay.one/movie/gallery/original/9t0tJXcOdWwwxmGTk112HGDaT0Q.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 HD"
+            }
+         ]
+      },
+      {
          "tmdb_id":"603692",
          "name":"John Wick 4 ",
          "links":[
