@@ -55,6 +55,18 @@
          ]
       },
       {
+         "tmdb_id":"298618",
+         "name":"The Flash",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18eJ7x7jaJxWLyZnaLsnMTjsXgTmaP0fVqHYwpIXe8KcPmvqeA%2Be%2B8T&image=https://static.esplay.one/movie/gallery/original/fEe2csLOUsTyaLdCccVJfFeJzhx.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"493529",
          "name":"Dungeons & Dragons: Honor entre ladrones",
          "links":[
