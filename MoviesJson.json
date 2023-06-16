@@ -37,6 +37,24 @@
          ]
       },
       {
+         "tmdb_id":"812225",
+         "name":"Black Clover: La espada del rey mago",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19HGLygqaUP62%2BotzY0rayExpq6FDZhpgnZRt82HBi7vT8sBP08tw8G&image=https://static.esplay.one/movie/gallery/original/eUNg7wZ8HoQW0QxFjrfw3ioAkap.webp",
+               "contentHost":"SUB ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BA5RYHkkw7nfCx10xJi56xXdQTdCvHk1tagBkoBuNE1FS%2FZeWKvMB5&image=https://static.esplay.one/movie/gallery/original/eUNg7wZ8HoQW0QxFjrfw3ioAkap.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
          "tmdb_id":"2109",
          "name":"Una Pareja Explosiva",
          "links":[
