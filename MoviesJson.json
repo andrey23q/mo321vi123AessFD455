@@ -18,6 +18,24 @@
             }
          ]
       },
+       {
+         "tmdb_id":"697843",
+         "name":"Extraction 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/N3TXEotlCpBW565TGf6hGf5hu7yhNh6GrEhItDF567NG54G77Yh645gh67/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP HD"
+            },
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BcVOYS51Mb9OiMRXMstocHV3%2FXoLTNn4%2BGDqltr2zS8ZEKhtMzzj1Z&image=https://static.esplay.one/movie/gallery/original/wYYVBBK3O8sb7J4WxkRx1bI7Q8c.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"CASTELLANO VIP"
+            }
+         ]
+      },
       {
          "tmdb_id":"2109",
          "name":"Una Pareja Explosiva",
