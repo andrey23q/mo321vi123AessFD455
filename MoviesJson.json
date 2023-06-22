@@ -18,6 +18,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"976573",
+         "name":"Elemental",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18TQYUl7SZlxiIZA%2Be0cXAzmS9aH7L6nhgAyVQI68tzWmdm%2BBiMQqEN&image=https://static.esplay.one/movie/gallery/original/7Yuf6j6N76SfqRWqT0I0ZUjICc2.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
        {
          "tmdb_id":"697843",
          "name":"Extraction 2",
