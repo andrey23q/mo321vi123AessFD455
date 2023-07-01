@@ -18,6 +18,42 @@
             }
          ]
       },
+       {
+         "tmdb_id":"1040148",
+         "name":"Ruby: Aventuras de una kraken adolescente",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2B5dgfXw5UtvtxE%2F5a4svjjVVkhyxl3BOSlNFfSc95McUwTBsec6zwV&image=https://static.esplay.one/movie/gallery/original/ioCuhiUs0SW5UgembG0UiQZWPLY.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"335977",
+         "name":"Indiana Jones y el dial del destino",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19ZIP%2BXTk7Tji%2B6QPamSDapGsHDwVGwmZYzLVapAUsz40VERRiunmX2&image=https://static.esplay.one/movie/gallery/original/35z8hWuzfFUZQaYog8E9LsXW3iI.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+            {
+         "tmdb_id":"455476",
+         "name":"Los Caballeros del Zodiaco: Saint Seiya - El inicio",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F%2FmBEBOenDiAvHjsw13K093yeBs%2B%2FAzfTBeVtF8g9kBK5ZxaOko5%2BK&image=https://static.esplay.one/movie/gallery/original/u17VLZqWFbeJsj1HpvB6QOOHvlC.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
       {
          "tmdb_id":"976573",
          "name":"Elemental",
@@ -25,6 +61,18 @@
             {
                "quality":"HD",
                "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18TQYUl7SZlxiIZA%2Be0cXAzmS9aH7L6nhgAyVQI68tzWmdm%2BBiMQqEN&image=https://static.esplay.one/movie/gallery/original/7Yuf6j6N76SfqRWqT0I0ZUjICc2.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"961323",
+         "name":"Nimona",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/41gXC9uoYoTd/",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP 1"
             }
