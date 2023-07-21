@@ -18,6 +18,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"346698",
+         "name":"Barbie",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2BFvvpTxvG9RxrhCv20lm9%2FO0glju35FIrX8CTImsycvv7rAKxSTIEL&image=https://static.esplay.one/movie/gallery/original/tTfnd2VrlaZJSBD9HUbtSF3CqPJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
        {
          "tmdb_id":"1040148",
          "name":"Ruby: Aventuras de una kraken adolescente",
