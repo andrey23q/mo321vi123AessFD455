@@ -30,6 +30,18 @@
             }
          ]
       },
+        {
+         "tmdb_id":"872585",
+         "name":"Oppenheimer",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19eWY5Agx27odudpvzST8vdDQJhNUkNS5GQZWhPNADJHXlGbRwkX1XM&image=https://static.esplay.one/movie/gallery/original/xcXALwBjdHIjrESpGVhghqj8fGT.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
        {
          "tmdb_id":"1040148",
          "name":"Ruby: Aventuras de una kraken adolescente",
