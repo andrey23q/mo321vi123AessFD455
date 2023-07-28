@@ -30,6 +30,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"457332",
+         "name":"Golpe oculto",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18Hv2TY4wiwULOfkSDvfXcB5RsKJZ4gvNstgjpOvSeBeN5BiDuJyz%2Bd&image=https://static.esplay.one/movie/gallery/original/dWvDlTkt9VEGCDww6IzNRgm8fRQ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
         {
          "tmdb_id":"872585",
          "name":"Oppenheimer",
