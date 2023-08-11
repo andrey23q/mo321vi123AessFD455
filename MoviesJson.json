@@ -31,6 +31,18 @@
          ]
       },
       {
+         "tmdb_id":"724209",
+         "name":"Agente Stone",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://bestx.stream/v/26QKmkizuTeD/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"457332",
          "name":"Golpe oculto",
          "links":[
