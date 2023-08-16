@@ -66,6 +66,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"614930",
+         "name":"Tortugas Ninja: Caos mutante",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64d528eee3732353ee6d2d46",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
        {
          "tmdb_id":"1040148",
          "name":"Ruby: Aventuras de una kraken adolescente",
