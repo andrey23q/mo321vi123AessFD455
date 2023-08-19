@@ -31,12 +31,36 @@
          ]
       },
       {
+         "tmdb_id":"832502",
+         "name":"EL REY MONO",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64df964f87a51d65ef5b44d4",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"724209",
          "name":"Agente Stone",
          "links":[
             {
                "quality":"HD",
                "url":"https://bestx.stream/v/26QKmkizuTeD/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"930094",
+         "name":"Rojo, blanco y sangre azul",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://pelisplus.esplay.one/player.html#64d637e66bc27961da4a2454",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP 1"
             }
