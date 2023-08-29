@@ -31,6 +31,18 @@
          ]
       },
       {
+         "tmdb_id":"635910",
+         "name":"Drácula: Mar de sangre",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX198f65DUs2qKRJAdqrtlgQFThfOZRPxNEPjv2gxZ186Q5xP8iU9LDolTjxc4%2Fl8kmYcn9AVO2qZo3YBc%2BTPV1vJimk7cXr3mHiSuq6oAzQFoD3CtcXB3ANX&image=https://static.esplay.one/movie/gallery/original/nUixrAu0tLn9PwfN7iaBoSAiHkm.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"832502",
          "name":"EL REY MONO",
          "links":[
