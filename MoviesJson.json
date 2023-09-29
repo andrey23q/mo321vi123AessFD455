@@ -19,6 +19,18 @@
          ]
       },
       {
+         "tmdb_id":"951491",
+         "name":"Saw X",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19Tbj7euAM5a0oWTDWSl3y1uGfqF74upWr4p%2FPHNB5Wbk21xrL%2F0DrDX7NrP%2BaEOwkmtZxbJnooWX98kvhqSA%2Fkd%2FC8z7UBu5V2BrTzYxuk%2F9%2Fw5pBqf9ek&image=https://static.esplay.one/movie/gallery/original/9b3uxqcjkmay20EBZZj1KVow0r5.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"346698",
          "name":"Barbie",
          "links":[
