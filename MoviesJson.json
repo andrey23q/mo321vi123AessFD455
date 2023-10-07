@@ -31,6 +31,18 @@
          ]
       },
       {
+         "tmdb_id":"926393",
+         "name":"The Equalizer 3",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FDPD%2BrUjG80Wr9%2B1k0KuPCT1FzxWf9HUb9dyiG9wzQJ12Y%2FmbaDC1F8oUTlnXfz9DuNJbH%2FCO1uptevDwlcp6JF9uZNmHlUSuWPVn5trTEWum0BgPAd98i&image=https://static.esplay.one/movie/gallery/original/lNxR7SmtFxFUfA7n9qtzuaIYvoM.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"346698",
          "name":"Barbie",
          "links":[
