@@ -49,6 +49,18 @@
          ]
       },
       {
+         "tmdb_id":"830764",
+         "name":"Cementerio de Mascotas: El Origen",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2F3uf%2FaYoXYYN1Y8KXrdAb0HyHNp6yyKKSpSsdSFIFVbQYsFNs5yEm2QSRUQrRDLNVwTLuqxvoozWSvSDOYeOqVYMhTjNlvI2FU6M5eIb4aQB1VOHL1PqvG&image=https://static.esplay.one/movie/gallery/original/FYIdCS39yn0NGFDFlRUXUmRxRk.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"926393",
          "name":"The Equalizer 3",
          "links":[
