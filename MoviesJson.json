@@ -45,6 +45,24 @@
                "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX19Tbj7euAM5a0oWTDWSl3y1uGfqF74upWr4p%2FPHNB5Wbk21xrL%2F0DrDX7NrP%2BaEOwkmtZxbJnooWX98kvhqSA%2Fkd%2FC8z7UBu5V2BrTzYxuk%2F9%2Fw5pBqf9ek&image=https://static.esplay.one/movie/gallery/original/9b3uxqcjkmay20EBZZj1KVow0r5.webp",
                "contentHost":"ESPAÑOL",
                "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://streamwish.to/e/0b6i3023f7mq",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 2"
+            }
+         ]
+      },
+      {
+         "tmdb_id":"968051",
+         "name":"La Monja 2",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX18Pwf0m7i6QpC1cszsUPuu6bruX2K8rKVpnsYDDSoeCfSzUIUG9J7QAmViZ3lmiivsRfcS8pHgQ74UC4AUo53bFtIx%2FP3vVns2Rcz3AjatPV7%2FBqZPRXg9r&image=https://static.esplay.one/movie/gallery/original/53z2fXEKfnNg2uSOPss2unPBGX1.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
             }
          ]
       },
