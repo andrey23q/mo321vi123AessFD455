@@ -19,6 +19,18 @@
          ]
       },
       {
+         "tmdb_id":"609681",
+         "name":"The Marvels",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://media.esplay.one/player?sbx=1&ref=pelisplus2&hash=U2FsdGVkX1%2FnES8HUT%2FZLnBtXY94g%2Ba%2FwoCy8C5YaQPhLBWz%2B3M%2BoPKk4G72WHdawgnT7NSjJkQLdnqvhv6KtdbNfJ5%2BvMTRWIuXGPGtgdV4beyyo3up9dxjUUdRuKsV&image=https://static.esplay.one/movie/gallery/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.webp",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"299054",
          "name":"Los indestructibles 4",
          "links":[
