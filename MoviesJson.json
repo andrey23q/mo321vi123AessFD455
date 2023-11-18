@@ -31,6 +31,18 @@
          ]
       },
       {
+         "tmdb_id":"695721",
+         "name":"Los juegos del hambre: La balada de pájaros cantores y serpientes",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamsito.com/video/tt10545296/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"299054",
          "name":"Los indestructibles 4",
          "links":[
