@@ -19,6 +19,30 @@
          ]
       },
       {
+         "tmdb_id":"520758",
+         "name":"Chicken Run: El amanecer del Nugget",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://wishembed.pro/e/ar44t5p0gwfu",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+        {
+         "tmdb_id":"1029575",
+         "name":"El Plan Familia",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamwish.to/e/j8mxxebnrjon",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            }
+         ]
+      },
+      {
          "tmdb_id":"609681",
          "name":"The Marvels",
          "links":[
