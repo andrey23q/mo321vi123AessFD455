@@ -30,6 +30,18 @@
             }
          ]
       },
+      {
+         "tmdb_id":"1071215",
+         "name":"Black Friday",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://streamsito.com/video/tt1448754/",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1 2023"
+            }
+         ]
+      },
         {
          "tmdb_id":"1029575",
          "name":"El Plan Familia",
