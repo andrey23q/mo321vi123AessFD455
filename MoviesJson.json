@@ -18,6 +18,24 @@
             }
          ]
       },
+       {
+         "tmdb_id":"848326",
+         "name":"Rebel Moon (Parte uno): La niña del fuego",
+         "links":[
+            {
+               "quality":"HD",
+               "url":"https://wishembed.pro/e/2yigtcjzsthf",
+               "contentHost":"ESPAÑOL",
+               "contentSize":"VIP 1"
+            },
+            {
+               "quality":"HD",
+               "url":"https://filemoon.sx/e/7hxuxci8hqgz",
+               "contentHost":"LATINO",
+               "contentSize":"VIP 2 HD"
+            }
+         ]
+      },
       {
          "tmdb_id":"520758",
          "name":"Chicken Run: El amanecer del Nugget",
